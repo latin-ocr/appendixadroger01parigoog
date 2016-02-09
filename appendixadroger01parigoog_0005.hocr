@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "appendixadroger01parigoog_0005.png"; bbox 0 0 3334 5734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 533 2359 915 2443">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 533 2359 915 2443">
+     <span class='ocr_line' id='line_1_1' title="bbox 533 2359 915 2443; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 533 2359 915 2443; x_wconf 86' lang='lat' dir='ltr'><strong>APPENDIX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 696 2555 744 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 696 2555 744 2605">
+     <span class='ocr_line' id='line_1_2' title="bbox 696 2555 744 2605; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 696 2555 744 2605; x_wconf 70' lang='lat' dir='ltr'><strong>An</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 286 2733 1160 2820">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 286 2733 1160 2820">
+     <span class='ocr_line' id='line_1_3' title="bbox 286 2733 1160 2820; baseline 0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 286 2733 567 2819; x_wconf 83' lang='lat' dir='ltr'><strong>ROGERI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 613 2735 707 2819; x_wconf 93' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 751 2734 1160 2820; x_wconf 85' lang='lat' dir='ltr'>WENDOVER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 396 3002 1056 3070">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 396 3002 1056 3070">
+     <span class='ocr_line' id='line_1_4' title="bbox 396 3002 1056 3070; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 396 3002 605 3070; x_wconf 85' lang='lat' dir='ltr'><strong>FLORES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 641 3002 1056 3070; x_wconf 79' lang='lat' dir='ltr'><strong>HISTORIABUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1672 5734">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1672 5734">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1672 5734; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1672 5734; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

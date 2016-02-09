@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "appendixadroger01parigoog_0002.png"; bbox 0 0 3334 5734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 318 3158 1190 3211">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 318 3158 1190 3211">
+     <span class='ocr_line' id='line_1_1' title="bbox 318 3158 1190 3211; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 318 3165 454 3211; x_wconf 81' lang='lat' dir='ltr'>SIDNEY</span> <span class='ocrx_word' id='word_1_2' title='bbox 472 3163 628 3211; x_wconf 78' lang='lat' dir='ltr'><strong>EDWARD</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 652 3162 835 3210; x_wconf 80' lang='lat' dir='ltr'>BOUVERIE</span> <span class='ocrx_word' id='word_1_4' title='bbox 857 3158 1190 3207; x_wconf 58' lang='lat' dir='ltr'><strong>Romam-Fusa</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1233 3252 1361 3527">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1233 3158 1361 3527">
+     <span class='ocr_line' id='line_1_2' title="bbox 1242 3252 1361 3331; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 1242 3252 1361 3331; x_wconf 48' lang='grc' dir='ltr'><strong>,ι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1233 3321 1360 3527; baseline -0.063 0"><span class='ocrx_word' id='word_1_6' title='bbox 1233 3321 1360 3527; x_wconf 57' lang='grc' dir='ltr'>Μ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 547 5043 991 5122">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 547 5043 991 5122">
+     <span class='ocr_line' id='line_1_4' title="bbox 547 5043 991 5122; baseline 0.029 -13"><span class='ocrx_word' id='word_1_7' title='bbox 547 5043 793 5114; x_wconf 80' lang='lat' dir='ltr'>GRADUATE</span> <span class='ocrx_word' id='word_1_8' title='bbox 813 5050 991 5122; x_wconf 83' lang='lat' dir='ltr'><strong>SCHOOL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 750 5165 789 5206">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 750 5165 789 5206">
+     <span class='ocr_line' id='line_1_5' title="bbox 750 5165 789 5206; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 750 5165 789 5206; x_wconf 72' lang='lat'><strong>0!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1672 5734">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1672 5734">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1672 5734; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1672 5734; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
